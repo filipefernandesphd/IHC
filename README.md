@@ -8,7 +8,7 @@ Repositório de apoio às aulas da disciplina.
 
 **Curso** : Bacharelado em Sistemas de Informação
 
-**Disciplina** : INF0307 - Interação Humano-Computador
+**Disciplina** : INF03079 - Interação Humano-Computador
 
 **Modalidade** : Presencial
 
