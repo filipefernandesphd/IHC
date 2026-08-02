@@ -166,7 +166,14 @@ title: Objetivo
 Projetar experiências de interação que atendam às necessidades dos usuários, utilizando métodos, técnicas e tecnologias de IHC
 
 ---
-title: Metodologia
+title: Metodologia (1)
+---
+- **Preparação**: primeiros 15min
+- **Aula**: restante do tempo 
+- **Encerramento**: últimos 15min
+
+---
+title: Metodologia (2)
 ---
 - Aulas Expositivas (TDH)
   - **T**eoria
