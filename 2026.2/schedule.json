@@ -7,18 +7,11 @@
   },
   "entries": [
     {
-      "day": "Segunda",
-      "date": "03/08/2026",
+      "day": "Quarta",
+      "date": "05/08/2026",
       "module": "MD0: Apresentação da disciplina",
       "topic": "Apresentação da disciplina",
       "id": "aula-00"
-    },
-    {
-      "day": "Quarta",
-      "date": "05/08/2026",
-      "module": "MD1: Princípios de Interação Homem-computador",
-      "topic": "Introdução",
-      "id": ""
     },
     {
       "day": "Segunda",
@@ -30,15 +23,15 @@
     {
       "day": "Quarta",
       "date": "12/08/2026",
-      "module": "",
-      "topic": "Interação, Interface e Affordance",
+      "module": "MD1: Princípios de Interação Homem-computador",
+      "topic": "Introdução",
       "id": ""
     },
     {
       "day": "Segunda",
       "date": "17/08/2026",
       "module": "",
-      "topic": "Qualidade em IHC",
+      "topic": "Interação, Interface e Affordance; Qualidade em IHC",
       "id": ""
     },
     {
@@ -58,7 +51,7 @@
     {
       "day": "Quarta",
       "date": "26/08/2026",
-      "module": "MD3: Processos de Design",
+      "module": "",
       "topic": "O que é Design",
       "id": ""
     },
@@ -72,7 +65,7 @@
     {
       "day": "Segunda",
       "date": "31/08/2026",
-      "module": "",
+      "module": "MD3: Processos de Design",
       "topic": "Engenharia de Usabilidade de Nielsen; Design Baseado em Cenários; Design Dirigido por Objetivos",
       "id": ""
     },
@@ -238,17 +231,17 @@
       "id": ""
     },
     {
-      "day": "Segunda",
-      "date": "09/11/2026",
+      "day": "Quarta",
+      "date": "11/11/2026",
       "module": "",
-      "topic": "[REPOSIÇÃO - 4 AULAS] Desenvolvimento do Projeto Final",
+      "topic": "Desenvolvimento do Projeto Final",
       "id": ""
     },
     {
       "day": "Quarta",
       "date": "11/11/2026",
       "module": "",
-      "topic": "Desenvolvimento do Projeto Final",
+      "topic": "[REPOSIÇÃO - 5 AULAS] Desenvolvimento do Projeto Final",
       "id": ""
     },
     {
@@ -259,6 +252,13 @@
       "id": ""
     },
     {
+      "day": "Segunda",
+      "date": "16/11/2026",
+      "module": "",
+      "topic": "[REPOSIÇÃO - 5 AULAS] Desenvolvimento do Projeto Final",
+      "id": ""
+    },
+    {
       "day": "Quarta",
       "date": "18/11/2026",
       "module": "",
@@ -269,7 +269,7 @@
       "day": "Quarta",
       "date": "18/11/2026",
       "module": "",
-      "topic": "[REPOSIÇÃO - 4 AULAS] Desenvolvimento do Projeto Final",
+      "topic": "[REPOSIÇÃO - 5 AULAS] Desenvolvimento do Projeto Final",
       "id": ""
     },
     {
@@ -315,13 +315,6 @@
       "id": ""
     },
     {
-      "day": "Quarta",
-      "date": "02/12/2026",
-      "module": "",
-      "topic": "[REPOSIÇÃO - 4 AULAS] Desenvolvimento do Projeto Final",
-      "id": ""
-    },
-    {
       "day": "Sábado",
       "date": "05/12/2026",
       "module": "",
@@ -345,6 +338,13 @@
     {
       "day": "Segunda",
       "date": "14/12/2026",
+      "module": "",
+      "topic": "Revisão",
+      "id": ""
+    },
+    {
+      "day": "Quarta",
+      "date": "16/12/2026",
       "module": "",
       "topic": "Revisão",
       "id": ""

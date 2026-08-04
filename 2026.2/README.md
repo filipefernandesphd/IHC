@@ -24,16 +24,15 @@ Repositório de apoio às aulas da disciplina.
 
 | Dia | Data | Módulo | Tópico |
 |---|---|---|---|
-| Segunda | 03/08/2026 | MD0: Apresentação da disciplina | [Apresentação da disciplina](aula-00/) |
-| Quarta | 05/08/2026 | MD1: Princípios de Interação Homem-computador | Introdução |
+| Quarta | 05/08/2026 | MD0: Apresentação da disciplina | [Apresentação da disciplina](aula-00/) |
 | Segunda | 10/08/2026 |  | [AULA CANCELADA] 10 - Dia de São Lourenço - Padroeiro de Manhuaçu |
-| Quarta | 12/08/2026 |  | Interação, Interface e Affordance |
-| Segunda | 17/08/2026 |  | Qualidade em IHC |
+| Quarta | 12/08/2026 | MD1: Princípios de Interação Homem-computador | Introdução |
+| Segunda | 17/08/2026 |  | Interação, Interface e Affordance; Qualidade em IHC |
 | Quarta | 19/08/2026 | MD2: Abordagens Teóricas em IHC | Cognição |
 | Segunda | 24/08/2026 |  | Visão geral das Abordagens Teóricas e Engenharia Semiótica |
-| Quarta | 26/08/2026 | MD3: Processos de Design | O que é Design |
+| Quarta | 26/08/2026 |  | O que é Design |
 | Sábado | 29/08/2026 |  | [AULA CANCELADA] |
-| Segunda | 31/08/2026 |  | Engenharia de Usabilidade de Nielsen; Design Baseado em Cenários; Design Dirigido por Objetivos |
+| Segunda | 31/08/2026 | MD3: Processos de Design | Engenharia de Usabilidade de Nielsen; Design Baseado em Cenários; Design Dirigido por Objetivos |
 | Quarta | 02/09/2026 |  | Integração da IHC com Engenharia de Software |
 | Segunda | 07/09/2026 |  | [AULA CANCELADA] 07 - Indepêndencia do Brasil |
 | Quarta | 09/09/2026 |  | [AULA CANCELADA] |
@@ -57,19 +56,20 @@ Repositório de apoio às aulas da disciplina.
 | Segunda | 02/11/2026 |  | [AULA CANCELADA] 02 - Finados |
 | Quarta | 04/11/2026 | MD6: Projeto Final | Apresentação do Projeto Final |
 | Segunda | 09/11/2026 |  | Desenvolvimento do Projeto Final |
-| Segunda | 09/11/2026 |  | [REPOSIÇÃO - 4 AULAS] Desenvolvimento do Projeto Final |
 | Quarta | 11/11/2026 |  | Desenvolvimento do Projeto Final |
+| Quarta | 11/11/2026 |  | [REPOSIÇÃO - 5 AULAS] Desenvolvimento do Projeto Final |
 | Segunda | 16/11/2026 |  | Desenvolvimento do Projeto Final |
+| Segunda | 16/11/2026 |  | [REPOSIÇÃO - 5 AULAS] Desenvolvimento do Projeto Final |
 | Quarta | 18/11/2026 |  | Desenvolvimento do Projeto Final |
-| Quarta | 18/11/2026 |  | [REPOSIÇÃO - 4 AULAS] Desenvolvimento do Projeto Final |
+| Quarta | 18/11/2026 |  | [REPOSIÇÃO - 5 AULAS] Desenvolvimento do Projeto Final |
 | Segunda | 23/11/2026 |  | Desenvolvimento do Projeto Final |
 | Segunda | 23/11/2026 |  | [REPOSIÇÃO - 4 AULAS] Desenvolvimento do Projeto Final |
 | Quarta | 25/11/2026 |  | Desenvolvimento do Projeto Final |
 | Sábado | 28/11/2026 |  | Desenvolvimento do Projeto Final |
 | Segunda | 30/11/2026 |  | Desenvolvimento do Projeto Final |
 | Quarta | 02/12/2026 |  | Desenvolvimento do Projeto Final |
-| Quarta | 02/12/2026 |  | [REPOSIÇÃO - 4 AULAS] Desenvolvimento do Projeto Final |
 | Sábado | 05/12/2026 |  | RELATÓRIO DO PROJETO FINAL |
 | Segunda | 07/12/2026 |  | Apresentação |
 | Quarta | 09/12/2026 |  | Revisão |
 | Segunda | 14/12/2026 |  | Revisão |
+| Quarta | 16/12/2026 |  | Revisão |
