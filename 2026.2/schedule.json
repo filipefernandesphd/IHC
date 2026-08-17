@@ -32,27 +32,27 @@
       "date": "17/08/2026",
       "module": "MD1: Princípios de Interação Homem-computador",
       "topic": "Introdução",
-      "id": ""
+      "id": "aula-01"
     },
     {
       "day": "Segunda",
       "date": "17/08/2026",
       "module": "",
-      "topic": "Interação, Interface e Affordance; Qualidade em IHC",
-      "id": ""
+      "topic": "Interação, Interface e Affordance",
+      "id": "aula-02"
     },
     {
       "day": "Quarta",
       "date": "19/08/2026",
-      "module": "MD2: Abordagens Teóricas em IHC",
-      "topic": "Cognição",
+      "module": "",
+      "topic": "Qualidade em IHC",
       "id": ""
     },
     {
       "day": "Segunda",
       "date": "24/08/2026",
-      "module": "",
-      "topic": "Visão geral das Abordagens Teóricas e Engenharia Semiótica",
+      "module": "MD2: Abordagens Teóricas em IHC",
+      "topic": "Cognição; Visão geral das Abordagens Teóricas e Engenharia Semiótica",
       "id": ""
     },
     {

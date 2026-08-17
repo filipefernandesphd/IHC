@@ -27,10 +27,10 @@ Repositório de apoio às aulas da disciplina.
 | Quarta | 05/08/2026 | MD0: Apresentação da disciplina | [Apresentação da disciplina](aula-00/) |
 | Segunda | 10/08/2026 |  | [AULA CANCELADA] 10 - Dia de São Lourenço - Padroeiro de Manhuaçu |
 | Segunda | 12/08/2026 |  | [AULA CANCELADA] |
-| Quarta | 17/08/2026 | MD1: Princípios de Interação Homem-computador | Introdução |
-| Segunda | 17/08/2026 |  | Interação, Interface e Affordance; Qualidade em IHC |
-| Quarta | 19/08/2026 | MD2: Abordagens Teóricas em IHC | Cognição |
-| Segunda | 24/08/2026 |  | Visão geral das Abordagens Teóricas e Engenharia Semiótica |
+| Quarta | 17/08/2026 | MD1: Princípios de Interação Homem-computador | [Introdução](aula-01/) |
+| Segunda | 17/08/2026 |  | [Interação, Interface e Affordance](aula-02/) |
+| Quarta | 19/08/2026 |  | Qualidade em IHC |
+| Segunda | 24/08/2026 | MD2: Abordagens Teóricas em IHC | Cognição; Visão geral das Abordagens Teóricas e Engenharia Semiótica |
 | Quarta | 26/08/2026 |  | O que é Design |
 | Sábado | 29/08/2026 |  | [AULA CANCELADA] |
 | Segunda | 31/08/2026 | MD3: Processos de Design | Engenharia de Usabilidade de Nielsen; Design Baseado em Cenários; Design Dirigido por Objetivos |
