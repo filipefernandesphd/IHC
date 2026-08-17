@@ -26,8 +26,9 @@ Repositório de apoio às aulas da disciplina.
 |---|---|---|---|
 | Quarta | 05/08/2026 | MD0: Apresentação da disciplina | [Apresentação da disciplina](aula-00/) |
 | Segunda | 10/08/2026 |  | [AULA CANCELADA] 10 - Dia de São Lourenço - Padroeiro de Manhuaçu |
-| Quarta | 12/08/2026 | MD1: Princípios de Interação Homem-computador | [Introdução](aula-01/) |
-| Segunda | 17/08/2026 |  | [Interação, Interface e Affordance; Qualidade em IHC](aula-02/) |
+| Segunda | 12/08/2026 |  | [AULA CANCELADA] |
+| Quarta | 17/08/2026 | MD1: Princípios de Interação Homem-computador | Introdução |
+| Segunda | 17/08/2026 |  | Interação, Interface e Affordance; Qualidade em IHC |
 | Quarta | 19/08/2026 | MD2: Abordagens Teóricas em IHC | Cognição |
 | Segunda | 24/08/2026 |  | Visão geral das Abordagens Teóricas e Engenharia Semiótica |
 | Quarta | 26/08/2026 |  | O que é Design |
@@ -54,7 +55,7 @@ Repositório de apoio às aulas da disciplina.
 | Segunda | 26/10/2026 |  | Engenharia de Prompts; IA para IHC; Estudos Empíricos |
 | Quarta | 28/10/2026 |  | [AULA CANCELADA] 28 - Dia do Servidor Público |
 | Segunda | 02/11/2026 |  | [AULA CANCELADA] 02 - Finados |
-| Quarta | 04/11/2026 | MD6: Projeto Final | Apresentação do Projeto Final |
+| Quarta | 04/11/2026 | MD6: Projeto Final | Desenvolvimento do Projeto Final |
 | Segunda | 09/11/2026 |  | Desenvolvimento do Projeto Final |
 | Quarta | 11/11/2026 |  | Desenvolvimento do Projeto Final |
 | Quarta | 11/11/2026 |  | [REPOSIÇÃO - 5 AULAS] Desenvolvimento do Projeto Final |
@@ -63,7 +64,7 @@ Repositório de apoio às aulas da disciplina.
 | Quarta | 18/11/2026 |  | Desenvolvimento do Projeto Final |
 | Quarta | 18/11/2026 |  | [REPOSIÇÃO - 5 AULAS] Desenvolvimento do Projeto Final |
 | Segunda | 23/11/2026 |  | Desenvolvimento do Projeto Final |
-| Segunda | 23/11/2026 |  | [REPOSIÇÃO - 4 AULAS] Desenvolvimento do Projeto Final |
+| Segunda | 23/11/2026 |  | [REPOSIÇÃO - 5 AULAS] Desenvolvimento do Projeto Final |
 | Quarta | 25/11/2026 |  | Desenvolvimento do Projeto Final |
 | Sábado | 28/11/2026 |  | Desenvolvimento do Projeto Final |
 | Segunda | 30/11/2026 |  | Desenvolvimento do Projeto Final |

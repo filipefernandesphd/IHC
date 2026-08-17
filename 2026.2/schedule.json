@@ -21,18 +21,25 @@
       "id": ""
     },
     {
-      "day": "Quarta",
+      "day": "Segunda",
       "date": "12/08/2026",
+      "module": "",
+      "topic": "[AULA CANCELADA]",
+      "id": ""
+    },
+    {
+      "day": "Quarta",
+      "date": "17/08/2026",
       "module": "MD1: Princípios de Interação Homem-computador",
       "topic": "Introdução",
-      "id": "aula-01"
+      "id": ""
     },
     {
       "day": "Segunda",
       "date": "17/08/2026",
       "module": "",
       "topic": "Interação, Interface e Affordance; Qualidade em IHC",
-      "id": "aula-02"
+      "id": ""
     },
     {
       "day": "Quarta",
@@ -220,7 +227,7 @@
       "day": "Quarta",
       "date": "04/11/2026",
       "module": "MD6: Projeto Final",
-      "topic": "Apresentação do Projeto Final",
+      "topic": "Desenvolvimento do Projeto Final",
       "id": ""
     },
     {
@@ -283,7 +290,7 @@
       "day": "Segunda",
       "date": "23/11/2026",
       "module": "",
-      "topic": "[REPOSIÇÃO - 4 AULAS] Desenvolvimento do Projeto Final",
+      "topic": "[REPOSIÇÃO - 5 AULAS] Desenvolvimento do Projeto Final",
       "id": ""
     },
     {
