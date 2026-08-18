@@ -14,12 +14,11 @@ export interface AcademicPresentation {
 }
 
 export const academicConfig = {
-  courseName: 'Nome do curso',
-  subjectName: 'Nome da disciplina',
-  subjectAcronym: 'SIGLA',
-  subjectCode: 'COD-0000',
-  professorName: 'Prof. Nome do Professor',
-  professorContact: 'professor@instituicao.br',
-  presentationTitle: 'Título da apresentação',
+  courseName: 'Bacharelado em Sistemas de Informação',
+  subjectName: 'Interação Humano-Computador',
+  subjectAcronym: 'IHC',
+  subjectCode: 'INF03079',
+  professorName: 'Filipe Fernandes, PhD',
+  professorContact: 'https://filipefernandesphd.com',
+  presentationTitle: 'Qualidade em IHC',
 } satisfies AcademicPresentation
-

@@ -23,7 +23,13 @@ const REQUIRED_SLIDE_FILES = [
   "style.css",
   "vite.config.ts",
 ];
-const REQUIRED_SLIDE_DIRECTORIES = ["components", "layouts"];
+const REQUIRED_SLIDE_DIRECTORIES = [
+  "components",
+  "layouts",
+  "public",
+  "setup",
+  "styles",
+];
 const FORBIDDEN_CONTENT_NAMES = new Set([".git", "node_modules", "_site"]);
 const FORBIDDEN_SLIDE_ROOT_NAMES = new Set([
   "AGENTS.md",
@@ -651,6 +657,10 @@ async function validateSlideStructure(root, semester, lesson, revision) {
       `${semester}/${lesson}/slides/${entry.name}: arquivo de infraestrutura do template não deve ser copiado.`,
     );
   }
+  assert(
+    !(await pathExists(path.join(slidesDirectory, "components", "Fit.vue"))),
+    `${semester}/${lesson}/slides/components/Fit.vue: o tema Tahta já fornece Fit; a cópia local causa conflito.`,
+  );
 
   const recordedRevision = (
     await readFile(path.join(slidesDirectory, ".slidev-template-revision"), "utf8")

@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@slidev/cli": "52.16.0",
+    "echarts": "6.0.0",
     "slidev-addon-citations": "0.0.13",
     "slidev-theme-tahta": "0.13.3",
     "vue": "3.5.40"

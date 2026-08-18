@@ -1,6 +1,6 @@
 ---
 theme: slidev-theme-tahta
-title: Template acadêmico Slidev
+title: Qualidade em IHC
 aspectRatio: 16/10
 info: |
   Qualidade em IHC
@@ -20,7 +20,7 @@ layout: academic-cover
 ---
 layout: default
 ---
-- Teste
+- Qualidade de uso e experiência do usuário
 
 
 <!-- ---
@@ -29,7 +29,7 @@ title: Referências
 --- -->
 
 <!-- <BiblioList /> -->
-<!-- 
+<!--
 ---
 layout: feature
 kicker: Encerramento
@@ -50,4 +50,3 @@ title: Avaliação da Experiência de Aprendizagem
 - Obtenha o código da avaliação
 ::right::
 <img src="../../assets/qrcode-avaliacao.png"/> -->
-

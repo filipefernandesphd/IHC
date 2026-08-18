@@ -362,13 +362,16 @@ para outra disciplina. `course.config.json/slides/templateRepository` deve
 declará-lo literalmente; `npm run aula:nova` sempre faz um clone temporário
 dele e seleciona a revisão declarada em `slides.templateRevision`.
 
-Referência inspecionada durante este planejamento:
-`1db486dba3cdb9dcae70fdfa806a5627eabf05ae`.
+Revisão fixada e inspecionada atualmente:
+`91a065af159793f66d8d30cd3bc887fb121b3150`.
 
 Ao criar uma aula:
 
 - copie do template somente `academic.config.ts`, `components/`,
-  `global-top.vue`, `layouts/`, `slides.md` e `style.css`;
+  `global-top.vue`, `layouts/`, `public/`, `setup/`, `slides.md`, `style.css` e
+  `styles/`;
+- não copie `components/Fit.vue`: o Tahta já fornece esse componente e uma
+  cópia local com o mesmo nome gera conflito no registro automático;
 - copie `site/templates/slidev.vite.config.ts`, pertencente a esta base, como
   `slides/vite.config.ts` para servir `AAAA.S/assets/` no preview direto;
 - registre o SHA usado em `slides/.slidev-template-revision`;
@@ -383,8 +386,9 @@ Ao criar uma aula:
   `routerMode: hash` e o layout de capa acadêmica.
 
 O template atual exige Node `^22.18.0 || >=24.11.0`, Slidev `52.16.0`,
-Tahta `0.13.3` e Vue `3.5.40`. Atualizações devem ocorrer em tarefa própria,
-com lockfile renovado, build de todos os decks e revisão visual.
+Tahta `0.13.3`, Vue `3.5.40` e ECharts `6.0.0`. Atualizações devem ocorrer em
+tarefa própria, com lockfile renovado, build de todos os decks e revisão
+visual.
 
 ### Build de cada deck
 

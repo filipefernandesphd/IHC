@@ -30,7 +30,14 @@ const TEMPLATE_FILES = [
   "slides.md",
   "style.css",
 ];
-const TEMPLATE_DIRECTORIES = ["components", "layouts"];
+const TEMPLATE_DIRECTORIES = [
+  "components",
+  "layouts",
+  "public",
+  "setup",
+  "styles",
+];
+const EXCLUDED_TEMPLATE_PATHS = new Set([path.join("components", "Fit.vue")]);
 const FORBIDDEN_TEMPLATE_NAMES = new Set([".git", "dist", "node_modules"]);
 const LOCAL_VITE_CONFIG = path.join("site", "templates", "slidev.vite.config.ts");
 
@@ -155,6 +162,8 @@ async function prepareSlides(root, templateDirectory, stagingDirectory, revision
       force: false,
       preserveTimestamps: true,
       verbatimSymlinks: true,
+      filter: (candidate) =>
+        !EXCLUDED_TEMPLATE_PATHS.has(path.relative(templateDirectory, candidate)),
     });
   }
 

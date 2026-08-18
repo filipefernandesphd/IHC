@@ -29,7 +29,7 @@ Repositório de apoio às aulas da disciplina.
 | Segunda | 12/08/2026 |  | [AULA CANCELADA] |
 | Quarta | 17/08/2026 | MD1: Princípios de Interação Homem-computador | [Introdução](aula-01/) |
 | Segunda | 17/08/2026 |  | [Interação, Interface e Affordance](aula-02/) |
-| Quarta | 19/08/2026 |  | Qualidade em IHC |
+| Quarta | 19/08/2026 |  | [Qualidade em IHC](aula-03/) |
 | Segunda | 24/08/2026 | MD2: Abordagens Teóricas em IHC | Cognição; Visão geral das Abordagens Teóricas e Engenharia Semiótica |
 | Quarta | 26/08/2026 |  | O que é Design |
 | Sábado | 29/08/2026 |  | [AULA CANCELADA] |

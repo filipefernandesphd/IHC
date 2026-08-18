@@ -234,7 +234,13 @@ O script sempre clona esse endereço por SSH em uma área temporária, faz
 checkout do SHA declarado em `course.config.json/slides/templateRevision` e
 copia somente os arquivos operacionais. O clone completo e seu `.git` nunca
 entram na pasta da aula. A revisão atualmente fixada é
-`1db486dba3cdb9dcae70fdfa806a5627eabf05ae`.
+`91a065af159793f66d8d30cd3bc887fb121b3150`.
+
+Além dos arquivos principais, o script copia `components/`, `layouts/`,
+`public/`, `setup/` e `styles/`. A exceção é `components/Fit.vue`: o componente
+já pertence ao Tahta e uma segunda cópia com o mesmo nome gera conflito no
+Slidev. As dependências compartilhadas, inclusive ECharts, permanecem somente
+na raiz do repositório.
 
 Depois:
 

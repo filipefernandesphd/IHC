@@ -1,21 +1,34 @@
+@import './styles/index.css';
+
 :root,
 :root[data-variant='minimal'] {
   --academic-navy-950: #0b132b;
   --academic-navy-800: #1c2541;
   --academic-slate-600: #3a506b;
   --academic-teal-400: #5bc0be;
+  --academic-gray-050: #f8f9fa;
+  --academic-gray-100: #f3f5f7;
+  --academic-gray-300: #d6dbe1;
+  --academic-gray-400: #b8c0ca;
   --academic-white: #ffffff;
+  --academic-code-background: var(--academic-gray-100);
+  --academic-code-font-normal: 0.9rem;
+  --academic-code-font-large: 1.2rem;
+  --academic-code-font-extralarge: 2rem;
+  --academic-code-line-height: 1.45;
+  --academic-layout-gap-inline: clamp(1.25rem, 3.5cqw, 3rem);
+  --academic-layout-gap-block: clamp(0.75rem, 2cqw, 1.5rem);
 
   /* Adaptação da variante Minimal do Tahta. */
   --ink: var(--academic-white);
-  --ink-2: color-mix(in srgb, var(--academic-slate-600) 4%, var(--academic-white));
-  --line: color-mix(in srgb, var(--academic-slate-600) 26%, var(--academic-white));
+  --ink-2: var(--academic-gray-050);
+  --line: var(--academic-gray-300);
   --fg: var(--academic-navy-950);
   --fg-dim: var(--academic-slate-600);
   --accent-base: var(--academic-teal-400);
   --accent: var(--academic-teal-400);
   --accent-deep: var(--academic-slate-600);
-  --accent-soft: color-mix(in srgb, var(--academic-teal-400) 38%, var(--academic-white));
+  --accent-soft: var(--academic-gray-300);
   --on-accent: var(--academic-navy-950);
   --cat-1: var(--academic-teal-400);
   --cat-2: var(--academic-navy-950);
@@ -24,10 +37,47 @@
   --cat-5: var(--academic-navy-950);
   --surface-bg: transparent;
   --surface-border: 1px solid var(--line);
-  --code-bg: color-mix(in srgb, var(--academic-slate-600) 7%, var(--academic-white));
-  --chart-muted: color-mix(in srgb, var(--academic-slate-600) 24%, var(--academic-white));
+  --code-bg: var(--academic-code-background);
+  --chart-muted: var(--academic-gray-400);
   --academic-body-font-size: 2rem;
   --academic-reference-font-size: 1rem;
+}
+
+.slidev-layout pre,
+.slidev-layout pre.shiki,
+.slidev-layout .slidev-code,
+.slidev-layout :not(pre) > code {
+  background: var(--academic-code-background) !important;
+}
+
+.slidev-layout :not(pre) > code {
+  padding: 0.08em 0.32em;
+  border: 1px solid var(--line);
+  border-radius: 0.2em;
+  box-decoration-break: clone;
+  color: inherit;
+  font-family: var(--font-mono);
+}
+
+.code-font {
+  --academic-active-code-font-size: var(--academic-code-font-normal);
+}
+
+.code-font--normal {
+  --academic-active-code-font-size: var(--academic-code-font-normal);
+}
+
+.code-font--large {
+  --academic-active-code-font-size: var(--academic-code-font-large);
+}
+
+.code-font--extralarge {
+  --academic-active-code-font-size: var(--academic-code-font-extralarge);
+}
+
+.slidev-layout .code-font :is(pre, code, .line) {
+  font-size: var(--academic-active-code-font-size) !important;
+  line-height: var(--academic-code-line-height) !important;
 }
 
 /* Amplia o conteúdo padrão sem alterar a densidade da bibliografia. */
