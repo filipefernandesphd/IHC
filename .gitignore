@@ -2,6 +2,14 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,node
 
+# Local-only agent files
+/prompts/
+/.prompts/
+/skills/
+/.skills/
+/AGENTS.md
+/INSTRUCTIONS.md
+
 ### macOS ###
 # General
 .DS_Store
@@ -195,3 +203,11 @@ INSTRUCTIONS.md
 !/INSTRUCTIONS.md
 !/skills/
 !/skills/**
+
+# Enforce local-only agent files after any earlier exceptions
+/prompts/
+/.prompts/
+/skills/
+/.skills/
+/AGENTS.md
+/INSTRUCTIONS.md
