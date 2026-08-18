@@ -100,7 +100,7 @@ export async function findRepositoryRoot(start = process.cwd()) {
   for (;;) {
     if (
       (await pathExists(path.join(candidate, "course.config.json"))) &&
-      (await pathExists(path.join(candidate, "AGENTS.md")))
+      (await pathExists(path.join(candidate, "course.config.schema.json")))
     ) {
       return candidate;
     }
