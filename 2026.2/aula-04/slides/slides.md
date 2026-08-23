@@ -38,7 +38,6 @@ points:
 layout: diagram
 kicker: Funcionamento
 title: Como o sistema cognitivo constrói sentido
-build: true
 highlight: [Situacao, Sentido, Decisao]
 note: Percepção e emoção alimentam o reconhecimento; as associações dão significado à situação.
 ---
@@ -119,10 +118,10 @@ kicker: Exemplos familiares
 title: Reconhecemos antes mesmo de ler
 columns: 4
 logos:
-  - { icon: "lucide:trash-2", text: Excluir }
-  - { icon: "lucide:search", text: Buscar }
-  - { icon: "lucide:triangle-alert", text: Alerta }
-  - { icon: "lucide:message-circle", text: Mensagem }
+  - { icon: "lucide:trash-2" }
+  - { icon: "lucide:search" }
+  - { icon: "lucide:triangle-alert" }
+  - { icon: "lucide:message-circle" }
 ---
 
 ---
@@ -164,13 +163,16 @@ title: Em tarefas complexas, forneça guias e instruções que sustentem <span c
 ---
 
 ---
-layout: showcase
+layout: default
 kicker: Exemplo
 title: Análise de dados exige reflexão
-subtitle: Ferramentas complexas devem revelar estrutura, estado e próximos passos.
-image: ../../assets/jira-analise-dados.png
-side: right
 ---
+
+<Figure
+  src="../../assets/jira-analise-dados.png"
+  alt="Painel do Jira com gráficos e indicadores para análise de dados"
+  caption="Ferramentas complexas devem revelar estrutura, estado e próximos passos."
+/>
 
 <!--
 [Sources]
@@ -208,36 +210,48 @@ points:
 ---
 
 ---
-layout: showcase
+layout: default
 kicker: Exemplo 1
 title: O formato comunica possibilidades
-image: ../../assets/1fenomeno-exemplo.png
-side: right
 ---
 
+<Figure
+  src="../../assets/1fenomeno-exemplo.png"
+  alt="Comparação visual entre estilos de botões de interface"
+/>
+
 ---
-layout: bleed
+layout: default
 kicker: Exemplo 2
 title: Consistência dentro de uma família de produtos
-image: ../../assets/apple-product.png
-duotone: false
 ---
 
+<Figure
+  src="../../assets/apple-product.png"
+  alt="Exemplo de padrões visuais recorrentes em produtos Apple"
+/>
+
 ---
-layout: showcase
+layout: default
 kicker: Exemplo 3
 title: Padrões visuais transferem aprendizado
-image: ../../assets/google-product.png
-side: right
 ---
 
+<Figure
+  src="../../assets/google-product.png"
+  alt="Exemplo de padrões visuais recorrentes em produtos Google"
+/>
+
 ---
-layout: image
+layout: default
 kicker: Exemplo 4
 title: O seu produto também precisa ser reconhecível
-image: ../../assets/your-product.png
-side: left
 ---
+
+<Figure
+  src="../../assets/your-product.png"
+  alt="Interface hipotética que combina convenções visuais de diferentes produtos"
+/>
 
 ---
 layout: section
