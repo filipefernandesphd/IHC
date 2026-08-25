@@ -197,13 +197,6 @@ AGENTS.md
 TASKS.md
 INSTRUCTIONS.md
 
-# Repository-owned agent instructions and skills are part of the architecture.
-# Keep files with the same names inside lesson/template copies ignored.
-!/AGENTS.md
-!/INSTRUCTIONS.md
-!/skills/
-!/skills/**
-
 # Enforce local-only agent files after any earlier exceptions
 /prompts/
 /.prompts/
