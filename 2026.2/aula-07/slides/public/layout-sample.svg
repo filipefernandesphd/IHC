@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" role="img" aria-labelledby="title desc">
+  <title id="title">Composição geométrica abstrata</title>
+  <desc id="desc">Blocos azul-marinho e turquesa organizados sobre um fundo cinza-claro.</desc>
+  <rect width="640" height="520" fill="#f3f5f7"/>
+  <rect x="52" y="52" width="252" height="416" rx="24" fill="#0b132b"/>
+  <circle cx="430" cy="180" r="126" fill="#5bc0be"/>
+  <rect x="338" y="328" width="250" height="140" rx="18" fill="#1c2541"/>
+  <path d="M96 120h164M96 166h112M96 212h146" stroke="#fff" stroke-width="18" stroke-linecap="round" opacity=".9"/>
+  <path d="M386 374h154M386 414h104" stroke="#fff" stroke-width="14" stroke-linecap="round" opacity=".86"/>
+</svg>
