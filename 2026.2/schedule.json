@@ -52,8 +52,15 @@
       "day": "Segunda",
       "date": "24/08/2026",
       "module": "MD2: Abordagens Teóricas em IHC",
-      "topic": "Cognição; Visão geral das Abordagens Teóricas e Engenharia Semiótica",
+      "topic": "Cognição",
       "id": "aula-04"
+    },
+    {
+      "day": "Segunda",
+      "date": "24/08/2026",
+      "module": "",
+      "topic": "Visão geral das Abordagens Teóricas e Engenharia Semiótica",
+      "id": ""
     },
     {
       "day": "Quarta",
@@ -73,8 +80,22 @@
       "day": "Segunda",
       "date": "31/08/2026",
       "module": "MD3: Processos de Design",
-      "topic": "Engenharia de Usabilidade de Nielsen; Design Baseado em Cenários; Design Dirigido por Objetivos",
-      "id": ""
+      "topic": "Engenharia de Usabilidade de Nielsen",
+      "id": "aula-06"
+    },
+    {
+      "day": "Segunda",
+      "date": "31/08/2026",
+      "module": "",
+      "topic": "Design Baseado em Cenários",
+      "id": "aula-07"
+    },
+    {
+      "day": "Segunda",
+      "date": "31/08/2026",
+      "module": "",
+      "topic": "Design Dirigido por Objetivos",
+      "id": "aula-08"
     },
     {
       "day": "Quarta",

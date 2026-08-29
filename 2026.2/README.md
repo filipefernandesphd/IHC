@@ -30,10 +30,13 @@ Repositório de apoio às aulas da disciplina.
 | Quarta | 17/08/2026 | MD1: Princípios de Interação Homem-computador | [Introdução](aula-01/) |
 | Segunda | 17/08/2026 |  | [Interação, Interface e Affordance](aula-02/) |
 | Quarta | 19/08/2026 |  | [Qualidade em IHC](aula-03/) |
-| Segunda | 24/08/2026 | MD2: Abordagens Teóricas em IHC | [Cognição; Visão geral das Abordagens Teóricas e Engenharia Semiótica](aula-04/) |
+| Segunda | 24/08/2026 | MD2: Abordagens Teóricas em IHC | [Cognição](aula-04/) |
+| Segunda | 24/08/2026 |  | Visão geral das Abordagens Teóricas e Engenharia Semiótica |
 | Quarta | 26/08/2026 |  | [O que é Design](aula-05/) |
 | Sábado | 29/08/2026 |  | [AULA CANCELADA] |
-| Segunda | 31/08/2026 | MD3: Processos de Design | Engenharia de Usabilidade de Nielsen; Design Baseado em Cenários; Design Dirigido por Objetivos |
+| Segunda | 31/08/2026 | MD3: Processos de Design | [Engenharia de Usabilidade de Nielsen](aula-06/) |
+| Segunda | 31/08/2026 |  | [Design Baseado em Cenários](aula-07/) |
+| Segunda | 31/08/2026 |  | [Design Dirigido por Objetivos](aula-08/) |
 | Quarta | 02/09/2026 |  | Integração da IHC com Engenharia de Software |
 | Segunda | 07/09/2026 |  | [AULA CANCELADA] 07 - Indepêndencia do Brasil |
 | Quarta | 09/09/2026 |  | [AULA CANCELADA] |
