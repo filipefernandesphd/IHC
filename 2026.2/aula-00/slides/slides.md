@@ -16,6 +16,7 @@ biblio:
   show_full_bib: true
   show_id: false
 layout: academic-cover
+browserExporter: build
 ---
 
 ---
