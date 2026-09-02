@@ -3,7 +3,7 @@ theme: slidev-theme-tahta
 addons:
   - slidev-addon-citations
 title: Programa Analítico
-aspectRatio: 4/3
+aspectRatio: 16/10
 info: |
   Visão geral da disciplina Interação Humano-Computador - 2026/2.
 themeConfig:
@@ -278,9 +278,11 @@ kicker: Trabalho 1
 - **Interação**: apresentar qual é o tipo de interação: sistema, parceiro de discurso, mídia e ferramenta
 - **Interface**: apresentar como é o contato físico durante a interação
 - **Affordance**: listar 5 exempos de *affordances* da interface
-- **Usabilidade**: aplicar as Heurísticas de Nielsen
-- **User Experience (UX)**: aplicar o *User Experience Questionnaire (UEQ)*
-- **Acessibilidade**: aplicar Accessible Usability Scale (AUS)
+- **Usabilidade**: aplicar as [Heurísticas de Nielsen](https://www.revistaespacios.com/a16v37n31/16373131.html)
+  - Procurem por outros materiais explicativos
+  - Avaliação feita pelo aluno
+<!-- - **User Experience (UX)**: aplicar o *User Experience Questionnaire (UEQ)* -->
+<!-- - **Acessibilidade**: aplicar Accessible Usability Scale (AUS) -->
 
 ---
 title: Seções (2)
@@ -295,7 +297,7 @@ kicker: Trabalho 1
 | **Quais elementos da interface favorecem esse comportamento?**<br>(ícones, cores, localização dos componentes, padrões conhecidos, hábitos, metáforas, feedback etc.) | **O esforço cognitivo é justificável?** |
 | **Essa escolha de design é adequada? Justifique.** | **A interface oferece apoio suficiente para que o usuário tome uma decisão correta?** |
 
----
+<!-- ---
 title: Seções (3)
 kicker: Trabalho 1
 ---
@@ -318,7 +320,7 @@ kicker: Trabalho 1
   - Identificar 3 evidências da intenção do designer
     - Ex: No e-commerce, o botão “Comprar Agora” aparece destacado em verde para incentivar compras rápidas
   - Identificar 3 situações em que a comunicação falha
-    - Ex: Não entendi o que este botão faz; Não sei o que aconceteu quando cliquei no botão validadar
+    - Ex: Não entendi o que este botão faz; Não sei o que aconceteu quando cliquei no botão validadar -->
 
 ---
 title: Seções (5)
