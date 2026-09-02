@@ -15,6 +15,7 @@ biblio:
 mdc: true
 routerMode: hash
 layout: academic-cover
+browserExporter: build
 ---
 ---
 layout: section
