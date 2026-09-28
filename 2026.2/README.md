@@ -37,7 +37,7 @@ Repositório de apoio às aulas da disciplina.
 | Segunda | 31/08/2026 | MD3: Processos de Design | [Engenharia de Usabilidade de Nielsen](aula-06/) |
 | Segunda | 31/08/2026 |  | [Design Baseado em Cenários](aula-07/) |
 | Segunda | 31/08/2026 |  | [Design Dirigido por Objetivos](aula-08/) |
-| Quarta | 02/09/2026 |  | Integração da IHC com Engenharia de Software |
+| Quarta | 02/09/2026 |  | [Integração da IHC com Engenharia de Software](aula-09/) |
 | Segunda | 07/09/2026 |  | [AULA CANCELADA] 07 - Indepêndencia do Brasil |
 | Quarta | 09/09/2026 |  | [AULA CANCELADA] |
 | Sábado | 12/09/2026 |  | [AULA CANCELADA] |
